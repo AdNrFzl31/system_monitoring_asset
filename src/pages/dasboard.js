@@ -1,6 +1,6 @@
 import * as React from 'react'
-import '../../public/assets/css/global.css'
-import '../../public/assets/css/bootstrap.css'
+import '../../assets/css/global.css'
+import '../../assets/css/bootstrap.css'
 
 const Index = () => {
   return <div style={{

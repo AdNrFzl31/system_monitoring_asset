@@ -1,5 +1,13 @@
 .center {
     display: flex;
-    height: 100vh;
     justify-content: center;
+    margin-top: 50px;
+}
+
+body {
+    background-image: url("../Image/17545.jpg");
+}
+
+.cursor {
+    cursor: pointer;
 }
